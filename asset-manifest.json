@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Online-Shop-Arica/static/css/main.88474277.css",
+    "main.js": "/Online-Shop-Arica/static/js/main.a9c51992.js",
+    "static/js/787.a8723d96.chunk.js": "/Online-Shop-Arica/static/js/787.a8723d96.chunk.js",
+    "index.html": "/Online-Shop-Arica/index.html",
+    "main.88474277.css.map": "/Online-Shop-Arica/static/css/main.88474277.css.map",
+    "main.a9c51992.js.map": "/Online-Shop-Arica/static/js/main.a9c51992.js.map",
+    "787.a8723d96.chunk.js.map": "/Online-Shop-Arica/static/js/787.a8723d96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88474277.css",
+    "static/js/main.a9c51992.js"
+  ]
+}
